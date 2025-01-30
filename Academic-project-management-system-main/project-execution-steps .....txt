@@ -1,0 +1,15 @@
+* Project execution steps *
+
+Step 1 - Internet is compulsory/mandatory for project execution.
+
+Step 2 - Always open MySQL first because MySQL is loading in RAM is important to execute project.
+	 // Following are the open mysql commands to open
+	 1) mysql>enter mysql password "Your mysql password"
+	 2) mysql>type "show databases;"
+	 3) mysql>type "use projectalloc;"
+	 4) mysql>type "show tables;"
+	 5) mysql>select * from "table name;" (mention here database table name which want to open)
+
+Step 3 - Then double click on eclipse in desktop ->click on launch button->after opening eclipse right click on project name->then select "Run as" option->then select "Run on server" option->then click on "Next" button->then click on "Finish" button.
+
+If you follow this steps properly then your project will execute in your laptop/computer browser automatically.
